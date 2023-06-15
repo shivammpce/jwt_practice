@@ -1,4 +1,4 @@
-module github/jwt_practice/jwt1
+module github/jwt_practice
 
 go 1.20
 
